@@ -1,4 +1,4 @@
-# 🍫 CNeTS Chocolate Workshop Report (assisted by ChatGPT)
+# 🍫 CNeTS Chocolate Workshop Report (text by ChatGPT)
 
 Welcome to our delicious dive into the world of chocolate ratings! We've collected opinions from 11 participants on 15 different chocolates. Below, you'll find a series of colorful box plots, each one exploring a different tasty trend. Let's break it down:
 
